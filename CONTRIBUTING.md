@@ -11,10 +11,10 @@ We use a simple branching model:
 
 - **main** → Stable, release-ready code  
 - **dev** → Active development branch  
-- **feature/<feature-name>** → New features  
-- **fix/<issue-fixed>** → Bug fixes  
-- **hotfix/<critical-issue>** → Urgent fixes on production  
-- **refactor/<improvement>** → Structural improvements (no behavior change)
+- **feature/< feature-name >** → New features  
+- **fix/< issue-fixed >** → Bug fixes  
+- **hotfix/< critical-issue >** → Urgent fixes on production  
+- **refactor/< improvement >** → Structural improvements (no behavior change)
 
 **Example:**
 feature/match-simulation
@@ -27,7 +27,7 @@ fix/json-loading-error
 All commits must follow the **Conventional Commits** specification.
 
 ## Format:
-<type>: <short message>
+< type >: < short message >
 
 [optional extended description]
 
