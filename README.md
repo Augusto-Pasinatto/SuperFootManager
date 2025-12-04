@@ -26,3 +26,12 @@ The project uses:
 
 ## 📂 Project Structure
 
+/Assets
+/Scripts
+/Managers
+/UI
+/Data
+/Resources
+/Scenes
+/ProjectSettings
+/Packages
